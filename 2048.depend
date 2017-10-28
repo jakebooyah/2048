@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1398550348 source:c:\users\jake\desktop\2048\src\2048.cpp
+	"header.h"
+	"BaseEngine.h"
+	"JPGImage.h"
+	"TileManager.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<iostream>
+	<fstream>
+	<string>
+	"2048.h"
+	"2048Tile.h"
+
+1398347246 c:\users\jake\desktop\2048\src\header.h
+	<stdlib.h>
+	<crtdbg.h>
+	"SDL.h"
+	"SDL_ttf.h"
+	"SDL_image.h"
+	"SDL/SDL.h"
+	"SDL/SDL_ttf.h"
+	"SDL/SDL_image.h"
+
+1398347245 c:\users\jake\desktop\2048\src\baseengine.h
+	"FontManager.h"
+	<assert.h>
+
+1398347246 c:\users\jake\desktop\2048\src\fontmanager.h
+
+1398347245 c:\users\jake\desktop\2048\src\jpgimage.h
+
+1398347245 c:\users\jake\desktop\2048\src\tilemanager.h
+	"BaseEngine.h"
+
+1398534083 c:\users\jake\desktop\2048\src\2048.h
+	"header.h"
+	"BaseEngine.h"
+	"JPGImage.h"
+	"TileManager.h"
+	"2048Tile.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1398378575 c:\users\jake\desktop\2048\src\2048tile.h
+	"tilemanager.h"
+
+1398524792 source:c:\users\jake\desktop\2048\src\2048tile.cpp
+	"header.h"
+	"2048Tile.h"
+
+1398347623 source:c:\users\jake\desktop\2048\src\baseengine.cpp
+	"header.h"
+	<SDL_syswm.h>
+	<math.h>
+	"BaseEngine.h"
+	"DisplayableObject.h"
+	"templates.h"
+
+1398347245 c:\users\jake\desktop\2048\src\displayableobject.h
+	"BaseEngine.h"
+
+1398347245 c:\users\jake\desktop\2048\src\templates.h
+
+1398347245 source:c:\users\jake\desktop\2048\src\displayableobject.cpp
+	"header.h"
+	"BaseEngine.h"
+	"DisplayableObject.h"
+
+1398347245 source:c:\users\jake\desktop\2048\src\fontmanager.cpp
+	"header.h"
+	"FontManager.h"
+	"templates.h"
+
+1398347245 source:c:\users\jake\desktop\2048\src\jpgimage.cpp
+	"header.h"
+	"SDL/SDL_image.h"
+	"JPGImage.h"
+
+1398347245 source:c:\users\jake\desktop\2048\src\myprojectmain.cpp
+	"header.h"
+	"BaseEngine.h"
+	"MyProjectMain.h"
+	"JPGImage.h"
+	"TileManager.h"
+	"DisplayableObject.h"
+
+1398347245 c:\users\jake\desktop\2048\src\myprojectmain.h
+	"BaseEngine.h"
+
+1398366720 source:c:\users\jake\desktop\2048\src\tilemanager.cpp
+	"header.h"
+	"BaseEngine.h"
+	"TileManager.h"
+
+1398513977 source:c:\users\jake\desktop\2048\src\mainfunction.cpp
+	"header.h"
+	"templates.h"
+	"2048.h"
+

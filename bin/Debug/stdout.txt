@@ -1,0 +1,10 @@
+Loading font: 24 point 04B_19__.ttf
+Loading font: 70 point 04B_19__.ttf
+Loading font: 20 point 04B_19__.ttf
+Loading font: 50 point 04B_19__.ttf
+Loading font: 40 point 04B_19__.ttf
+Free font: 24 point 04B_19__.ttf
+Free font: 70 point 04B_19__.ttf
+Free font: 20 point 04B_19__.ttf
+Free font: 50 point 04B_19__.ttf
+Free font: 40 point 04B_19__.ttf

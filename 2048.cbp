@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="2048" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/cwkdemo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/cwkdemo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="src/2048.cpp" />
+		<Unit filename="src/2048.h" />
+		<Unit filename="src/2048Tile.cpp" />
+		<Unit filename="src/2048Tile.h" />
+		<Unit filename="src/BaseEngine.cpp" />
+		<Unit filename="src/BaseEngine.h" />
+		<Unit filename="src/Cornerstone Regular.ttf" />
+		<Unit filename="src/DisplayableArc.h" />
+		<Unit filename="src/DisplayableObject.cpp" />
+		<Unit filename="src/DisplayableObject.h" />
+		<Unit filename="src/FontManager.cpp" />
+		<Unit filename="src/FontManager.h" />
+		<Unit filename="src/JPGImage.cpp" />
+		<Unit filename="src/JPGImage.h" />
+		<Unit filename="src/MovementPosition.h" />
+		<Unit filename="src/MyProjectMain.cpp" />
+		<Unit filename="src/MyProjectMain.h" />
+		<Unit filename="src/TileManager.cpp" />
+		<Unit filename="src/TileManager.h" />
+		<Unit filename="src/demo.jpg" />
+		<Unit filename="src/demo.png" />
+		<Unit filename="src/header.h" />
+		<Unit filename="src/mainfunction.cpp" />
+		<Unit filename="src/screenshot.PNG" />
+		<Unit filename="src/templates.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
